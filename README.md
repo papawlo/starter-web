@@ -1,7 +1,7 @@
 # Starter Web Repo
 
 This repository is for showing how Git and GitHub together.
-Adding a line for REBASING example
+Adding a line for REBASING example, more changes from myFeature branch too.
 
 ## Introduction
 
