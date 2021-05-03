@@ -8,7 +8,7 @@
 
 # THANKS
 
-    <name>
+    Mozao
 
 # TECHNOLOGY COLOPHON
 
