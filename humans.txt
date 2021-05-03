@@ -4,6 +4,7 @@
 # TEAM
 
     <name> -- <role> -- <twitter>
+    Paulo -- WebDev -- papawlo
 
 # THANKS
 
