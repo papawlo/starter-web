@@ -16,6 +16,8 @@ This is a web project
 
 ## How To Contribute
 
+Please fork this repository issue Pull requests for review
+
 ## Copyright
 
 2020 Git.training
