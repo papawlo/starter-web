@@ -2,6 +2,7 @@
 
 This repository is for showing how Git and GitHub together.
 Adding a line for REBASING example, more changes from myFeature branch too.
+Updating for emergency fix
 
 ## Introduction
 
