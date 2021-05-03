@@ -1,6 +1,7 @@
 # Starter Web Repo
 
 This repository is for showing how Git and GitHub together.
+Adding a line for REBASING example
 
 ## Introduction
 
